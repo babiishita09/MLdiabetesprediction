@@ -4,3 +4,4 @@
 
 # APP DEMO:
 ![alt-text](https://github.com/babiishita09/MLdiabetesprediction/blob/master/ML_diabetesPrediction/Screenshot%20(9).png)
+![alt-text](https://github.com/babiishita09/MLdiabetesprediction/blob/master/ML_diabetesPrediction/Screenshot%20(10).png)
