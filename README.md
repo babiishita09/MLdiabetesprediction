@@ -1,5 +1,5 @@
 # MLdiabetesprediction
-* It is a diabetes prediction web app. You can check whether you have diabetes or not.
+* It is a diabetes prediction web app. You can check whether you have diabetes or not. (I have used machine learning technique for predicting result)
 * deployment link - https://ml-diabetes-predictionishita.herokuapp.com/
 
 # APP DEMO:
